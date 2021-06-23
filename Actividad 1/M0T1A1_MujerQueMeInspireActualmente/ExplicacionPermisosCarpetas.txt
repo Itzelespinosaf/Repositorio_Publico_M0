@@ -1,0 +1,7 @@
+El sistema Linux permite asignar permisos en tres niveles: 
+1. Propietario, aquel usuario que genera o crea una carpeta dentro de su directorio. 
+2. Grupo, un grupo de trabajo al que pertenece un usuario. 
+3. Resto de usuarios, aquellos que no pertenecen al grupo de trabajo asignado a la carpeta. 
+El permiso de lectura permite visualizar el contenido de la carpeta, el de escritura permite modificar o borrar el contenido y modificar los permisos de la carpeta. El permiso de ejecucion permite ejecutar el contenido de la carpeta.
+En la sintaxis de los permisos, las carpetas se identifican con la letra "d", seguida de sus respectivos permisos para el propietario "u", grupos "g" y otros "o".
+Esta carpeta "M0T1A1_MujerQueMeInspireActualmente" cuenta con los siguientes permisos: "drwxr-xr-x", lo cual significa que el propietario tiene permisos de lectura, escritura y ejecucion, el grupo y el resto de usuarios tienen permiso de lectura y ejecucion.   

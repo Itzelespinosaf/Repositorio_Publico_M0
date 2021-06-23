@@ -1,0 +1,5 @@
+Linux es un sistema operativo open source. Fue concebido y creado por Linus Torvalds en 1991, con base en Unix. 
+Debian es una distribucion de Linux realizada por una comunidad de desarrolladores y usuarios. Se la considera una distribucion madre, ya que a partir de Debian nacieron infinidad de distribuciones como Ubuntu, Linux Mint, SteamOS, Kali Linux, PureOs, Deepin, entre otras. 
+Ubuntu fue desarrollada y mantenida por la empresa Canonical, siendo una de las mas utilizadas. Se orienta a usos generales y se caracteriza por su compatibilidad de software y facilidad de uso equiparable a Mac o Windows. 
+Fedora es una distribucion para propositos generales, que hace uso de la paqueteria RPM. Se caracteriza por ser estable y segura. Es desarrollada y mantenida por la empresa Red Hat y una comunidad internacional de ingenieros, disenadores graficos y usuarios que informen de fallos y prueban nuevas tecnologias.
+OpenSUSE es auspiciada por SUSE Linux GmbH y AMD. Se orienta a ofrecer un sistema operativo estable, potente y administrable para usos realmente avanzados, pero con una gran facilidad para todo publico en general. 

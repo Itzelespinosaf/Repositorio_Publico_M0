@@ -1,0 +1,7 @@
+El sistema Linux permite asignar permisos de lectura, escritura y ejecucion a un archivo en tres distintos niveles: 
+1. Propietario, quien genera un archivo dentro de su directorio de trabajo. 
+2. Grupo, el grupo de trabajo al que pertencen varios usuarios. 
+3. Resto de usuarios, aquellos que no pertenecen al grupo de trabajo asignado al archivo en cuestion. 
+El permiso de lectura permite visualizar el contenido del archivo, el de escritura permite modificar o borrar el contenido, incluso puede modificar los permisos del archivo.El permiso de ejecucion permite ejecutar el contenido del archivo.
+En la sintaxis de los permisos, los archivos se identifican con el signo "-", seguido de sus respectivos permisos para el propietario "u", grupos "g" y otros "o".
+Este archivo "ExplicacionPermisosArchivos.txt" cuenta con los siguientes permisos: "-rw-r--r--", lo cual significa que el propietario tiene permisos de lectura y escritura, el grupo y el resto de usuarios tienen permiso solo de lectura.
